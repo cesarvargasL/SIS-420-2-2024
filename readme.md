@@ -1,7 +1,8 @@
 <h1 align="center" id="title">SIS 420 2/2024</h1>
 
 <h2>Laboratorios</h2>
-* [Laboratorio 1](Laboratorios/Laboratorio%201/)
+
+* [Laboratorio 1](Laboratorios/Laboratorio%201)
 
 
 <h2>🛡️ Desarrolado por:</h2>
