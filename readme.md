@@ -4,6 +4,8 @@
 
 * [Laboratorio 1](Laboratorios/Laboratorio%201)
 
+* [Laboratorio 2](Laboratorios/Laboratorio%202)
+
 
 <h2>🛡️ Desarrolado por:</h2>
 
