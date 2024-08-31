@@ -6,6 +6,8 @@
 
 * [Laboratorio 2](Laboratorios/Laboratorio%202)
 
+* [Laboratorio 3](https://drive.google.com/drive/folders/1uOuuMMgS2LTlQFlV3bja155PeO5UMLlH?usp=drive_link)
+
 
 <h2>🛡️ Desarrolado por:</h2>
 
