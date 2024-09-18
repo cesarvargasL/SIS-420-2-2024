@@ -10,6 +10,8 @@
 
 * [Laboratorio 4](https://drive.google.com/drive/folders/14t-cq5E7ukILnZ7GfnEq-Npjli3_iW0z?usp=sharing)
 
+* [Primer Parcial](Parciales/primer%20parcial)
+
 
 <h2>🛡️ Desarrolado por:</h2>
 
