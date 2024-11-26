@@ -19,7 +19,7 @@ def extract_frames(video_path, output_folder, fps=8, width=230, height=210):
     
     # Contador para el número de frames extraídos
     frame_count = 0
-    saved_frame_count = 2964
+    saved_frame_count = 0
     while True:
         ret, frame = cap.read()
 
@@ -45,8 +45,8 @@ def extract_frames(video_path, output_folder, fps=8, width=230, height=210):
     print("Extracción de frames completada.")
 
 # Parámetros de entrada
-video_path = r"D:\CESAR\Universidad\7mo semestre\SIS 420\monedas\5_bolis.mp4" # Cambiar la ruta del video, a la que se desea extraer los frames
-output_folder = r"D:\CESAR\Universidad\7mo semestre\SIS 420\repositorio\Examen Final\dataset\datos\5_bolivianos" # Cambiar la carpeta de salida, a la que se gurdarán los frames
+video_path = r"D:\CESAR\Universidad\7mo semestre\SIS 420\monedas\20_cen_2.mp4" # Cambiar la ruta del video, a la que se desea extraer los frames
+output_folder = r"D:\CESAR\Universidad\7mo semestre\SIS 420\repositorio\Examen Final\dataset\datos\20_centavos" # Cambiar la carpeta de salida, a la que se gurdarán los frames
 
 # Llamar a la función para extraer los frames
 extract_frames(video_path, output_folder)
